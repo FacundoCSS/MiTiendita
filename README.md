@@ -21,7 +21,7 @@ MiTiendita is a powerful and user-friendly ecommerce app that empowers small bus
 ![MiTiendita Shop Page](https://github.com/FacundoCSS/PortfolioV2/blob/main/media/MiTiendita2.png?raw=true)
 > Home page displaying featured products and navigation menu.
 
-![MiTiendita Product Page](https://github.com/FacundoCSS/PortfolioV2/blob/main/media/MiTiendita4.png?raw=true)
+![MiTiendita Product Page](https://github.com/FacundoCSS/PortfolioV2/blob/main/media/MiTiendita5.png?raw=true)
 > Product page with detailed information and "Add to Cart" functionality.
 
 ## Contributing
